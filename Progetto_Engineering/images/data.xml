@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--File di salvataggio dell'applicazione. Non modificare a mano.-->
+<root>
+    <Engineering type="Mechanics">
+        <s_name>sapolo</s_name>
+        <student_number>ENG1237</student_number>
+        <fac_name>Mechanical Engineering</fac_name>
+        <head_name>MOKOLO</head_name>
+        <location>LOKBASSI</location>
+        <degree>Baccalaureat</degree>
+        <entry_exam>1</entry_exam>
+        <math_score>12</math_score>
+        <logic_score>12</logic_score>
+    </Engineering>
+    <Engineering type="Informatic">
+        <s_name>SINGH SUKHJINDER</s_name>
+        <student_number>ENG1120</student_number>
+        <fac_name>Computer Engineering</fac_name>
+        <head_name>SADJOAL</head_name>
+        <location>VIA TIEPOLO,55</location>
+        <degree>0</degree>
+        <entry_exam>1</entry_exam>
+        <math_score>15</math_score>
+        <logic_score>15</logic_score>
+    </Engineering>
+    <Engineering type="Mechanics">
+        <s_name>SINGH</s_name>
+        <student_number>ENG1122</student_number>
+        <fac_name>Mechanical Engineering</fac_name>
+        <head_name>SADJO</head_name>
+        <location>VIA TIEPOLO,54</location>
+        <degree>0</degree>
+        <entry_exam>1</entry_exam>
+        <math_score>15</math_score>
+        <logic_score>15</logic_score>
+    </Engineering>
+    <Engineering type="Aeronautic">
+        <s_name>MOLO</s_name>
+        <student_number>ENG1</student_number>
+        <fac_name>Aeronautic</fac_name>
+        <head_name>SOLO</head_name>
+        <location>LO</location>
+        <degree>1</degree>
+        <entry_exam>0</entry_exam>
+        <math_score>12</math_score>
+        <logic_score>12</logic_score>
+        <bachelor_degree>Physics</bachelor_degree>
+        <degree_score>26</degree_score>
+        <entry_exam_score>14</entry_exam_score>
+    </Engineering>
+</root>

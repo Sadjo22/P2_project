@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/imag">
+        <file>images/logo.jpeg</file>
+        <file>images/save.png</file>
+        <file>images/close.png</file>
+        <file>images/add.png</file>
+        <file>images/cancel.png</file>
+        <file>images/delete.png</file>
+        <file>images/eng.jpeg</file>
+        <file>images/aero.png</file>
+        <file>images/mecanical.png</file>
+        <file>images/comp.png</file>
+        <file>images/info.png</file>
+    </qresource>
+</RCC>
